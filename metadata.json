@@ -1,0 +1,11 @@
+{
+  "name": "CashTask",
+  "description": "Your ultimate micro-task platform to earn daily rewards and manage promotional marketing content, powered by Gemini AI with bKash and Nagad payment integration.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
